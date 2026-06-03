@@ -6,3 +6,10 @@ Contact:
 Julian.Meyer-Arnek@DLR.de
 or geoservice@DLR.de 
 or acsaf@fmi.fi.
+
+In order to run this notebook, you need to establish a local Python environment with the libraries listed in requirements.txt being installed:
+```
+pip install < requirements.txt
+```
+
+Have fun!
